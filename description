@@ -1,0 +1,21 @@
+Snake Game Made By Omkar Hadawale
+
+🐍 Classic Snake Game in Python
+
+A modern recreation of the nostalgic, arcade-style Snake game built from scratch using Python and Pygame in the PyCharm IDE.
+
+This project demonstrates core game development concepts including event handling, collision detection, real-time score tracking, and game loop optimization.
+
+Features
+Smooth Controls: Grid-based movement using the arrow keys (or WASD).
+
+Dynamic Growth: The snake grows longer and speeds up slightly every time it eats an apple.
+
+Collision Detection: Game over triggers if the snake hits the screen boundaries or crashes into its own tail.
+
+Live Scoreboard: Real-time score tracking displayed right on the screen.
+
+Clean UI: Simple, retro-inspired graphics with a restart option.
+
+
+
